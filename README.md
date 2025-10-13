@@ -1,16 +1,14 @@
-## Hi there 👋
+ David Lucas Gomes Souza Ferreira
 
-<!--
-**DavidLuccass/DavidLuccass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 17 anos, estou começando a inicar na área de programação. Estou fazendo um curso da NextCoders aonde estou aprendendo e me aprimorando sobre os fundamentos logicos da programação. Busco me aprimorar para um dia criar projetos significativos.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+- 
+-
+-
+
+## contatos 
+
+- [Linkedin](https://www.linkedin.com/in/david-lucas-225992369/)
