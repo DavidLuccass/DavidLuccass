@@ -1,13 +1,12 @@
- David Lucas Gomes Souza Ferreira
+Hi, my name is David Lucas, I'm 17 years old, and I'm currently starting out in the field of programming. I'm studying frequently to improve my skills and one day create meaningful projects.
 
-Tenho 17 anos, estou começando a inicar na área de programação. Estou fazendo um curso da NextCoders aonde estou aprendendo e me aprimorando sobre os fundamentos logicos da programação. Busco me aprimorar para um dia criar projetos significativos.
+## Technologies
 
-## Tecnologias
-
-- 
-- 
--
--
+- C#
+- Git, Github
+- .NET
+- SQL
+- APIs RESTful
 
 ## contatos 
 
